@@ -4,7 +4,7 @@ the thing lazy people need
 # things to follow:
 
 THIS HAS TO BE IN YOUR DOWNLOADS FOLDER
-(C:\Users\%USERNAME%\Downloads)
+(C:\Users\\%USERNAME%\Downloads)
 OR ELSE IT WON'T WORK!!!!!!
 
 i also gotta put in CLEAR SIGHT that IT WILL OVERWRITE ANY FILES WITH THE SAME NAME OF THE REPLAY
