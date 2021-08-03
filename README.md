@@ -3,11 +3,7 @@ the thing lazy people need
 
 # things to follow:
 
-THIS HAS TO BE IN YOUR DOWNLOADS FOLDER
-(C:\Users\\%USERNAME%\Downloads)
-OR ELSE IT WON'T WORK!!!!!!
-
-i also gotta put in CLEAR SIGHT that IT WILL OVERWRITE ANY FILES WITH THE SAME NAME OF THE REPLAY
+i gotta put in CLEAR SIGHT that IT WILL OVERWRITE ANY FILES WITH THE SAME NAME OF THE REPLAY
 THAT YOU ARE IMPORTING FROM HERE!
 for example, if you have a file named "ag.zbot" in your replays folder; then you import another zbot file
 ALSO named "ag" but from here instead, it will automatically overwrite the file that is in the replays folder.
